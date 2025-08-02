@@ -59,7 +59,3 @@ To predict the instrument in a sample image, use:
 predict_instrument('dataset/test_sample/1.jpg', model, class_labels)
 ```
 The result is displayed as an image with the predicted class and printed in the terminal.
-
-## License
-
-This project is for educational
